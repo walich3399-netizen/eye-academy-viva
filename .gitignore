@@ -1,0 +1,23 @@
+node_modules
+.env
+.env.local
+.output
+dist
+.tanstack
+.vinxi
+src/routeTree.gen.ts
+
+# env / secrets (never commit real keys)
+.env.*
+!.env.example
+*.pem
+serviceAccount*.json
+
+# OS / editor / logs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+*.zip
+coverage

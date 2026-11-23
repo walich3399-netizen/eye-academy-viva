@@ -1,0 +1,510 @@
+{
+  "source": "Glaucoma and angle closure: Eye Academy reference note",
+  "pages": 10,
+  "chunks": [
+    {
+      "id": "p1-c1",
+      "page": 1,
+      "section": "Glaucoma and angle closure",
+      "text": "Reference note Voice viva take-home Written by Eye Academy Revised November 2026"
+    },
+    {
+      "id": "p1-c2",
+      "page": 1,
+      "section": "About this note",
+      "text": "This note was written by Eye Academy for the developer take-home task. It is a revision summary for trainees, not clinical guidance: always follow local protocols and current national guidance. Page numbers are printed at the foot of each page so that answers can cite them."
+    },
+    {
+      "id": "p1-c3",
+      "page": 1,
+      "section": "Aqueous humour and intraocular pressure",
+      "text": "Aqueous humour is secreted by the non-pigmented epithelium of the ciliary body, mostly by active transport (with smaller contributions from ultrafiltration and diffusion), at roughly 2 to 3 microlitres per minute. It passes from the posterior chamber through the pupil into the anterior chamber, then leaves the eye by two routes."
+    },
+    {
+      "id": "p1-c4",
+      "page": 1,
+      "section": "Aqueous humour and intraocular pressure",
+      "text": "Conventional (trabecular) outflow. Aqueous passes through the trabecular meshwork into Schlemm's canal, then into collector channels and the episcleral veins. This route carries most of the outflow in adults and depends on pressure. Uveoscleral outflow. Aqueous passes through the ciliary muscle into the suprachoroidal space. This route is largely independent of pressure, is relatively larger in younger people, and is the main target of prostaglandin analogues."
+    },
+    {
+      "id": "p1-c5",
+      "page": 1,
+      "section": "Aqueous humour and intraocular pressure",
+      "text": "Intraocular pressure (IOP) reflects the balance between production and outflow. In adults the population average is about 15 to 16 mmHg, and 21 mmHg (about two standard deviations above the mean) is often quoted as the upper limit of normal, but many people with glaucoma have pressures below this and many people above it never develop damage. IOP varies through the day and is often highest in the early morning."
+    },
+    {
+      "id": "p1-c6",
+      "page": 1,
+      "section": "Aqueous humour and intraocular pressure > Measuring IOP",
+      "text": "Goldmann applanation tonometry at the slit lamp is the reference standard. It assumes an average central corneal thickness (CCT): a thick cornea makes the reading higher than the true pressure, and a thin cornea makes it lower. Record the time of measurement, the method and which eye. Rebound and non-contact tonometers are useful for screening and for children but are less accurate at very high pressures."
+    },
+    {
+      "id": "p2-c1",
+      "page": 2,
+      "section": "Assessing the drainage angle > Van Herick grading",
+      "text": "With a thin, bright slit beam offset about 60 degrees from the microscope and placed at the temporal limbus, compare the depth of the most peripheral anterior chamber with the thickness of the cornea."
+    },
+    {
+      "id": "p2-c2",
+      "page": 2,
+      "section": "Assessing the drainage angle > Van Herick grading",
+      "text": "Grade Peripheral chamber depth Interpretation 4 Equal to or greater than corneal thickness Wide open"
+    },
+    {
+      "id": "p2-c3",
+      "page": 2,
+      "section": "Assessing the drainage angle > Van Herick grading",
+      "text": "3 Between a quarter and a half Closure unlikely"
+    },
+    {
+      "id": "p2-c4",
+      "page": 2,
+      "section": "Assessing the drainage angle > Van Herick grading",
+      "text": "2 A quarter Needs gonioscopy"
+    },
+    {
+      "id": "p2-c5",
+      "page": 2,
+      "section": "Assessing the drainage angle > Van Herick grading",
+      "text": "1 Less than a quarter Angle usually dangerously narrow on gonioscopy"
+    },
+    {
+      "id": "p2-c6",
+      "page": 2,
+      "section": "Assessing the drainage angle > Van Herick grading",
+      "text": "Van Herick is a screening test only. It can overestimate angle width, particularly in plateau iris configuration, so grades 1 and 2 (and any clinical suspicion) should be confirmed with gonioscopy."
+    },
+    {
+      "id": "p2-c7",
+      "page": 2,
+      "section": "Assessing the drainage angle > Gonioscopy",
+      "text": "Gonioscopy is the reference standard for seeing the angle structures directly. Use a dark room and a short, thin slit beam that avoids the pupil, because light constricts the pupil and can open an angle that would be closed in the dark (this happens in about a third of appositionally closed angles)."
+    },
+    {
+      "id": "p2-c8",
+      "page": 2,
+      "section": "Assessing the drainage angle > Gonioscopy",
+      "text": "From posterior to anterior the visible structures are the ciliary body band, scleral spur, trabecular meshwork and Schwalbe's line. The angle is usually narrowest superiorly."
+    },
+    {
+      "id": "p2-c9",
+      "page": 2,
+      "section": "Assessing the drainage angle > Gonioscopy",
+      "text": "Indentation (dynamic) gonioscopy with a four-mirror lens pushes aqueous into the angle. If the iris falls back, the closure is appositional; if it stays stuck to the meshwork, there are peripheral anterior synechiae (PAS)."
+    },
+    {
+      "id": "p2-c10",
+      "page": 2,
+      "section": "Assessing the drainage angle > Gonioscopy",
+      "text": "Iridotrabecular contact (ITC) means the peripheral iris touches the posterior (pigmented) trabecular meshwork. ITC for at least 180 degrees is the threshold used by the American Academy of Ophthalmology and in recent trials. The original international (ISGEO) definition, still used in Kanski, requires three or more quadrants (270 degrees)."
+    },
+    {
+      "id": "p2-c11",
+      "page": 2,
+      "section": "Assessing the drainage angle > Gonioscopy",
+      "text": "Shaffer grading records the angle width in each quadrant: grade 4 (35 to 45 degrees, ciliary body visible), grade 3 (scleral spur visible), grade 2 (trabecular meshwork but not scleral spur visible), grade 1 (only Schwalbe's line and perhaps the top of the meshwork visible), slit, and grade 0 (closed)."
+    },
+    {
+      "id": "p2-c12",
+      "page": 2,
+      "section": "Assessing the drainage angle > Gonioscopy",
+      "text": "Anterior segment OCT and ultrasound biomicroscopy (UBM) give images of the angle and complement gonioscopy, but they do not replace it. UBM is better for plateau iris and other ciliary body causes, because it can see behind the iris."
+    },
+    {
+      "id": "p2-c13",
+      "page": 2,
+      "section": "Primary angle closure > Terminology",
+      "text": "The terms below follow the international (ISGEO) classification used by the major guidelines."
+    },
+    {
+      "id": "p3-c1",
+      "page": 3,
+      "section": "Primary angle closure > Terminology",
+      "text": "Primary angle closure suspect (PACS): ITC for at least 180 degrees, with normal IOP, no PAS and no glaucomatous optic neuropathy. Primary angle closure (PAC): ITC with raised IOP and/or PAS, but a healthy optic disc and visual field. Other signs of previous closure, such as iris whorling or sectoral atrophy, glaukomflecken or excess trabecular pigment, support the diagnosis. Primary angle closure glaucoma (PACG): angle closure with glaucomatous optic neuropathy."
+    },
+    {
+      "id": "p3-c2",
+      "page": 3,
+      "section": "Primary angle closure > Terminology",
+      "text": "Acute primary angle closure (APAC): a sudden symptomatic rise in IOP caused by angle closure, called an acute angle-closure crisis in the American guidance. It can occur at any point along this spectrum. Subacute (intermittent) angle closure: milder, spontaneously resolving episodes, often relieved by bright light or sleep, which both constrict the pupil."
+    },
+    {
+      "id": "p3-c3",
+      "page": 3,
+      "section": "Primary angle closure > Risk factors",
+      "text": "Hypermetropia and short axial length (nanophthalmos, below 20 mm, carries particular risk) Older age, as the lens thickens and moves forward Female sex East Asian or Inuit ethnicity A family history of angle closure A shallow anterior chamber and a thick or anteriorly placed lens"
+    },
+    {
+      "id": "p3-c4",
+      "page": 3,
+      "section": "Primary angle closure > Mechanisms",
+      "text": "Mechanisms are grouped by the level at which they act, from the iris backwards. More than one is often present (mixed mechanism)."
+    },
+    {
+      "id": "p3-c5",
+      "page": 3,
+      "section": "Primary angle closure > Mechanisms",
+      "text": "Pupil block. Contact between the iris and lens slows the flow of aqueous through the pupil. Pressure builds behind the iris, which bows forward (iris bombé) and closes the angle. This is the most common mechanism and is relieved by a peripheral iridotomy. Plateau iris and a thick peripheral iris roll."
+    },
+    {
+      "id": "p3-c6",
+      "page": 3,
+      "section": "Primary angle closure > Mechanisms",
+      "text": "The ciliary processes sit anteriorly and push the peripheral iris into the angle, even though the central chamber may look reasonably deep. Non-pupil- block mechanisms are relatively more important in East Asian patients. See the plateau iris section below. Lens factor. A thick or forward lens crowds the anterior segment. Removing the lens deepens the chamber and opens the angle."
+    },
+    {
+      "id": "p3-c7",
+      "page": 3,
+      "section": "Primary angle closure > Mechanisms",
+      "text": "Closure that is mainly lens-driven (phacomorphic or a subluxed lens) is usually classed as secondary."
+    },
+    {
+      "id": "p3-c8",
+      "page": 3,
+      "section": "Acute primary angle closure > Symptoms",
+      "text": "Sudden, severe, aching pain in one eye, often with a frontal headache on the same side. About 5% of attacks affect both eyes at once. Blurred vision and coloured haloes around lights, caused by corneal oedema"
+    },
+    {
+      "id": "p4-c1",
+      "page": 4,
+      "section": "Acute primary angle closure > Symptoms",
+      "text": "Nausea, vomiting and sometimes abdominal pain, which can lead to a mistaken diagnosis of an abdominal or neurological problem Earlier, milder episodes that resolved on their own, often in the evening or after time in dim light"
+    },
+    {
+      "id": "p4-c2",
+      "page": 4,
+      "section": "Acute primary angle closure > Signs",
+      "text": "Reduced visual acuity, often 6/60 to hand movements Very high IOP, usually 50 to 80 mmHg (almost always above 40 mmHg) Ciliary injection (violaceous redness most marked around the limbus) Corneal epithelial oedema, often with a hazy view of the iris and fundus A shallow peripheral anterior chamber, usually with flare A fixed, mid-dilated, often vertically oval pupil, caused by ischaemia of the iris sphincter A hyperaemic, swollen optic disc if the fundus can be seen A narrow angle in the other eye, which is an important diagnostic clue."
+    },
+    {
+      "id": "p4-c3",
+      "page": 4,
+      "section": "Acute primary angle closure > Signs",
+      "text": "If the fellow angle is open, look hard for a secondary cause. After the attack: an initially low IOP (ciliary body shutdown), folds in Descemet membrane, glaukomflecken (small white anterior subcapsular lens opacities), spiral iris atrophy, an irregular or fixed pupil, posterior synechiae and PAS, and optic disc pallor with or without cupping"
+    },
+    {
+      "id": "p4-c4",
+      "page": 4,
+      "section": "Acute primary angle closure > Triggers",
+      "text": "Attacks are often triggered by things that dilate the pupil into the mid-position, where pupil block is greatest."
+    },
+    {
+      "id": "p4-c5",
+      "page": 4,
+      "section": "Acute primary angle closure > Triggers",
+      "text": "Dim light, such as a cinema or a dark room Emotional stress A semi-prone position, such as reading, which lets the lens move forward Dilating drops, including tropicamide and phenylephrine Drugs with anticholinergic effects, including some antihistamines (for example chlorphenamine), tricyclic antidepressants, antispasmodics, hyoscine travel-sickness patches and some inhaled bronchodilators (such as nebulised ipratropium) Sympathomimetic drugs, including decongestants and cold and flu remedies Rarely, strong miotics, which can pull the lens-iris diaphragm forward"
+    },
+    {
+      "id": "p4-c6",
+      "page": 4,
+      "section": "Acute primary angle closure > Triggers",
+      "text": "Drug-induced bilateral angle closure from topiramate and some sulfonamide-type drugs works by a different mechanism and is covered under secondary angle closure."
+    },
+    {
+      "id": "p4-c7",
+      "page": 4,
+      "section": "Acute primary angle closure > Differential diagnosis",
+      "text": "Condition Features that help to tell it apart"
+    },
+    {
+      "id": "p4-c8",
+      "page": 4,
+      "section": "Acute primary angle closure > Differential diagnosis",
+      "text": "Acute primary angle closure Shallow chamber, fixed mid-dilated pupil, narrow angle in the other eye, often hypermetropic"
+    },
+    {
+      "id": "p5-c1",
+      "page": 5,
+      "section": "Acute primary angle closure > Differential diagnosis",
+      "text": "Condition Features that help to tell it apart Phacomorphic angle closure Swollen cataractous lens, asymmetric chamber depth between the eyes, poor Neovascular glaucoma vision before the attack, open angle in the other eye"
+    },
+    {
+      "id": "p5-c2",
+      "page": 5,
+      "section": "Acute primary angle closure > Differential diagnosis",
+      "text": "Uveitic or hypertensive New vessels on the iris and in the angle, history of diabetes, retinal vein uveitis occlusion or carotid disease Posner–Schlossman syndrome Cells and flare in the anterior chamber, keratic precipitates, posterior Topiramate-induced angle synechiae; consider herpes simplex, varicella zoster and cytomegalovirus closure Aqueous misdirection Recurrent one-sided attacks of very high IOP with mild inflammation, a few fine keratic precipitates and an open angle Orbital causes Both eyes, sudden myopic shift, recent start of topiramate, ciliochoroidal effusion, uniformly shallow chamber"
+    },
+    {
+      "id": "p5-c3",
+      "page": 5,
+      "section": "Acute primary angle closure > Differential diagnosis",
+      "text": "After eye surgery, flat central and peripheral chamber despite a patent iridotomy"
+    },
+    {
+      "id": "p5-c4",
+      "page": 5,
+      "section": "Acute primary angle closure > Differential diagnosis",
+      "text": "Proptosis, restricted eye movements, dilated episcleral vessels; for example carotid-cavernous fistula, retrobulbar haemorrhage or orbital inflammation"
+    },
+    {
+      "id": "p5-c5",
+      "page": 5,
+      "section": "Managing an acute attack",
+      "text": "The aims are to lower the IOP quickly, relieve pupil block, protect the other eye and prevent a recurrence. Treatment below is an outline only; doses and choices should follow local protocols."
+    },
+    {
+      "id": "p5-c6",
+      "page": 5,
+      "section": "Managing an acute attack > Immediate treatment",
+      "text": "Position and support. Lie the patient flat (supine) to let the lens fall back, and give analgesia and an antiemetic. Topical IOP-lowering drops. A beta-blocker such as timolol 0.5% (unless the patient has asthma, COPD, bradycardia or heart block) and an alpha-agonist such as apraclonidine 1% or brimonidine 0.2%. A topical carbonic anhydrase inhibitor can be added. Leave 3 to 5 minutes between drops."
+    },
+    {
+      "id": "p5-c7",
+      "page": 5,
+      "section": "Managing an acute attack > Immediate treatment",
+      "text": "Prostaglandin analogues act too slowly to help in the acute phase. Topical steroid. Prednisolone acetate 1% to reduce inflammation. Pilocarpine. Pilocarpine 2% constricts the pupil and pulls the iris away from the angle."
+    },
+    {
+      "id": "p5-c8",
+      "page": 5,
+      "section": "Managing an acute attack > Immediate treatment",
+      "text": "The iris sphincter is often ischaemic and does not respond while the IOP is very high, so pilocarpine works better once the pressure has started to fall (many protocols wait until the IOP is below 40 to 50 mmHg). Avoid repeated intensive doses and strong concentrations such as 4%, which can push the lens-iris diaphragm forward and cause systemic toxicity. Fellow eye."
+    },
+    {
+      "id": "p5-c9",
+      "page": 5,
+      "section": "Managing an acute attack > Immediate treatment",
+      "text": "Many units give pilocarpine 1% to the other eye until it has an iridotomy, although some specialists avoid this. Either way, the priority is prompt iridotomy in both eyes. Systemic carbonic anhydrase inhibitor. Acetazolamide 500 mg, given intravenously if the IOP is above about 50 mmHg or the patient is vomiting, otherwise orally (not the slow-release form), then"
+    },
+    {
+      "id": "p6-c1",
+      "page": 6,
+      "section": "Managing an acute attack > Immediate treatment",
+      "text": "250 mg four times a day. Check for sulfonamide allergy, kidney disease, low potassium and sickle cell disease before giving it. Do not use it when the angle closure is caused by topiramate or another sulfonamide drug. Hyperosmotic agents if the pressure stays high: intravenous mannitol 20%, or oral glycerol 50% (avoid glycerol in people with diabetes; oral isosorbide is an alternative)."
+    },
+    {
+      "id": "p6-c2",
+      "page": 6,
+      "section": "Managing an acute attack > Immediate treatment",
+      "text": "Watch for heart failure, fluid overload and kidney problems."
+    },
+    {
+      "id": "p6-c3",
+      "page": 6,
+      "section": "Managing an acute attack > Immediate treatment",
+      "text": "Recheck the IOP every 30 to 60 minutes. Indenting the central cornea with a gonioscopy lens or a squint hook can push aqueous into the angle and help break the attack. Topical glycerol can clear corneal epithelial oedema first, which improves the view and reduces the risk of abrasion."
+    },
+    {
+      "id": "p6-c4",
+      "page": 6,
+      "section": "Managing an acute attack > If the IOP does not fall",
+      "text": "Review the diagnosis, for example aqueous misdirection or a secondary cause Early laser iridotomy, after clearing the cornea with topical glycerol Laser peripheral iridoplasty to pull the peripheral iris away from the angle, particularly if the cornea is too cloudy for an iridotomy or systemic carbonic anhydrase inhibitors must be avoided Anterior chamber paracentesis as a temporary measure."
+    },
+    {
+      "id": "p6-c5",
+      "page": 6,
+      "section": "Managing an acute attack > If the IOP does not fall",
+      "text": "It works quickly but the effect is short-lived and there is a small risk of damage to the lens. Surgical peripheral iridectomy, early lens extraction (with or without goniosynechialysis), trabeculectomy or cyclodiode, ideally in a specialist glaucoma unit"
+    },
+    {
+      "id": "p6-c6",
+      "page": 6,
+      "section": "Managing an acute attack > Definitive treatment",
+      "text": "Laser peripheral iridotomy (LPI) in the affected eye once the cornea has cleared, usually within a few days. Continue topical steroid for at least a week. Prophylactic LPI in the fellow eye, because without treatment around 40 to 50% of fellow eyes have an attack within 5 to 10 years (higher figures are reported in some series). Long-term pilocarpine is not an adequate alternative."
+    },
+    {
+      "id": "p6-c7",
+      "page": 6,
+      "section": "Managing an acute attack > Definitive treatment",
+      "text": "Lens extraction is an alternative or addition to LPI, particularly when the lens is thick or cataractous, and there should be a low threshold for it after an attack. In the EAGLE trial, clear lens extraction in people aged 50 or over with PAC (IOP 30 mmHg or more) or PACG gave better pressure control and quality of life than LPI, and was cost-effective."
+    },
+    {
+      "id": "p6-c8",
+      "page": 6,
+      "section": "Managing an acute attack > Definitive treatment",
+      "text": "EAGLE did not study eyes during or straight after an acute attack."
+    },
+    {
+      "id": "p6-c9",
+      "page": 6,
+      "section": "Managing an acute attack > Follow-up",
+      "text": "Once the eye has settled, repeat gonioscopy (including the affected eye, which could not be assessed properly during the attack), examine both optic discs and arrange visual field testing. Check that the iridotomies are patent. Some eyes develop chronically raised IOP from PAS or trabecular damage and need long-term medical or surgical treatment. Any trigger drug should be stopped and the patient warned about others."
+    },
+    {
+      "id": "p7-c1",
+      "page": 7,
+      "section": "Laser peripheral iridotomy",
+      "text": "An iridotomy is a small full-thickness opening in the peripheral iris that lets aqueous bypass the pupil. It equalises the pressure in front of and behind the iris and relieves pupil block."
+    },
+    {
+      "id": "p7-c2",
+      "page": 7,
+      "section": "Laser peripheral iridotomy > Indications",
+      "text": "After acute primary angle closure, in both eyes Primary angle closure and primary angle closure glaucoma Selected primary angle closure suspects."
+    },
+    {
+      "id": "p7-c3",
+      "page": 7,
+      "section": "Laser peripheral iridotomy > Indications",
+      "text": "The ZAP and ANA-LIG trials showed only a small protective effect, so LPI is usually reserved for higher-risk people: symptoms of intermittent closure, a need for drugs that may cause pupil block, frequent dilated examinations (for example diabetic retinopathy or AMD), poor access to eye care, or a family history of angle closure. Pigment dispersion with marked reverse pupil block (less commonly used now)"
+    },
+    {
+      "id": "p7-c4",
+      "page": 7,
+      "section": "Laser peripheral iridotomy > Technique",
+      "text": "Pre-treat with pilocarpine to stretch and thin the iris and with apraclonidine to reduce the post-laser pressure spike. Place the opening in the peripheral iris, ideally in an iris crypt, either fully covered by the upper lid or temporally, using a contact lens to focus the beam. Avoid the lid margin and tear meniscus, where a partly covered opening is most likely to cause visual symptoms."
+    },
+    {
+      "id": "p7-c5",
+      "page": 7,
+      "section": "Laser peripheral iridotomy > Technique",
+      "text": "The Nd:YAG laser is used most often; argon laser can be added first in thick, dark irides to reduce bleeding and the energy needed."
+    },
+    {
+      "id": "p7-c6",
+      "page": 7,
+      "section": "Laser peripheral iridotomy > Complications",
+      "text": "A temporary rise in IOP, so recheck the pressure after about an hour Bleeding from the iris or a small hyphaema, usually stopped by gentle pressure with the contact lens Anterior uveitis Visual disturbance such as lines, glare or ghost images, particularly if the opening is only partly covered by the lid Corneal epithelial or endothelial burns, especially in a shallow chamber Closure of the opening, needing repeat treatment Persistent angle closure despite a patent iridotomy, which suggests plateau iris or a lens mechanism Rarely, aqueous misdirection or damage to the lens or retina"
+    },
+    {
+      "id": "p7-c7",
+      "page": 7,
+      "section": "Plateau iris",
+      "text": "In plateau iris the ciliary processes are positioned anteriorly and hold the peripheral iris forward. The central anterior chamber can look normal or only slightly shallow, while the iris surface is flat and the peripheral angle is narrow. Patients tend to be younger than those with pure pupil block."
+    },
+    {
+      "id": "p7-c8",
+      "page": 7,
+      "section": "Plateau iris",
+      "text": "Plateau iris configuration describes the anatomy seen on gonioscopy or imaging. Plateau iris syndrome describes an angle that stays closed, or closes again, despite a patent iridotomy. Darkness or dilation may be needed to show it. In the complete form the IOP rises; in the incomplete form the closure is less extensive and the IOP stays normal."
+    },
+    {
+      "id": "p8-c1",
+      "page": 8,
+      "section": "Plateau iris",
+      "text": "Gonioscopy shows a \"double hump\" sign on indentation: a central hump from the iris over the lens and a peripheral hump from the iris over the ciliary processes. Ultrasound biomicroscopy confirms the anterior ciliary processes. Laser iridoplasty is the procedure of choice when the angle stays closed after iridotomy; other options are long-term pilocarpine and lens extraction."
+    },
+    {
+      "id": "p8-c2",
+      "page": 8,
+      "section": "Secondary angle closure",
+      "text": "Secondary angle closure has an identifiable cause other than primary anatomy. It can be divided into causes that push the iris forward from behind and causes that pull it into the angle from in front. It is more often one-sided than primary angle closure."
+    },
+    {
+      "id": "p8-c3",
+      "page": 8,
+      "section": "Secondary angle closure > Pushing mechanisms",
+      "text": "Phacomorphic or lens subluxation. A swollen cataractous lens, or a lens that has moved forward (for example after trauma, or in pseudoexfoliation or microspherophakia), pushes the iris forward. Treated by lowering the IOP and removing the lens. Ciliochoroidal effusion. Drugs such as topiramate, and some other sulfonamide-type drugs, cause fluid to collect around the ciliary body, which rotates forward."
+    },
+    {
+      "id": "p8-c4",
+      "page": 8,
+      "section": "Secondary angle closure > Pushing mechanisms",
+      "text": "Typically both eyes are affected within the first two weeks of starting the drug, with a sudden myopic shift. Stop the drug (with the prescriber) and use cycloplegics, topical steroid and IOP-lowering drops. Avoid acetazolamide, which is itself a sulfonamide. Pilocarpine and iridotomy do not help, because there is no pupil block, and pilocarpine can make it worse."
+    },
+    {
+      "id": "p8-c5",
+      "page": 8,
+      "section": "Secondary angle closure > Pushing mechanisms",
+      "text": "Effusions also occur after extensive panretinal photocoagulation, in nanophthalmos and with a central retinal vein occlusion. Aqueous misdirection (malignant glaucoma). Usually after eye surgery, especially in short eyes with angle closure, aqueous flows backwards into the vitreous and pushes the lens and iris forward. Both the central and peripheral chamber become flat despite a patent iridotomy."
+    },
+    {
+      "id": "p8-c6",
+      "page": 8,
+      "section": "Secondary angle closure > Pushing mechanisms",
+      "text": "Treated with cycloplegics, aqueous suppressants and hyperosmotics, avoiding miotics; then, if needed, Nd:YAG laser to the anterior hyaloid face (in pseudophakic eyes), cyclodiode or vitrectomy. Posterior segment causes, such as large tumours, haemorrhage, a large serous retinal detachment, expanding gas or silicone oil after vitrectomy, or a tight scleral buckle."
+    },
+    {
+      "id": "p8-c7",
+      "page": 8,
+      "section": "Secondary angle closure > Pulling mechanisms",
+      "text": "Neovascular glaucoma. A fibrovascular membrane grows over the angle after retinal ischaemia, for example from diabetes or central retinal vein occlusion. The angle is open at first, then the membrane contracts to zip the angle shut. Treat the ischaemia (anti-VEGF injections and panretinal photocoagulation) as well as the IOP. Uveitis. Inflammation leads to PAS, often inferiorly, and posterior synechiae can cause pupil block and iris bombé."
+    },
+    {
+      "id": "p8-c8",
+      "page": 8,
+      "section": "Secondary angle closure > Pulling mechanisms",
+      "text": "Iridocorneal endothelial (ICE) syndrome, in which abnormal corneal endothelium migrates over the angle, often producing high PAS that reach beyond Schwalbe's line. Epithelial or fibrous downgrowth, after surgery or a penetrating injury."
+    },
+    {
+      "id": "p9-c1",
+      "page": 9,
+      "section": "Primary open-angle glaucoma and ocular hypertension",
+      "text": "Primary open-angle glaucoma (POAG) is a chronic, progressive optic neuropathy with characteristic optic disc cupping and visual field loss, in an eye with an open angle and no secondary cause. It is usually painless and found at a routine eye test. Risk factors include raised IOP, older age, black African or Caribbean ethnicity, a family history, myopia and a thin central cornea."
+    },
+    {
+      "id": "p9-c2",
+      "page": 9,
+      "section": "Primary open-angle glaucoma and ocular hypertension",
+      "text": "Ocular hypertension (OHT) means an IOP above 21 mmHg with a healthy optic disc and visual field. In the UK, NICE guidance (NG81, updated 2022) recommends offering treatment when the IOP is 24 mmHg or more and the person is at risk of visual impairment in their lifetime."
+    },
+    {
+      "id": "p9-c3",
+      "page": 9,
+      "section": "Primary open-angle glaucoma and ocular hypertension",
+      "text": "For both OHT and POAG, 360-degree selective laser trabeculoplasty (SLT) is now offered first, with a generic prostaglandin analogue as the usual first-choice medicine if SLT is unsuitable or not wanted. This change followed the LiGHT trial."
+    },
+    {
+      "id": "p9-c4",
+      "page": 9,
+      "section": "Primary open-angle glaucoma and ocular hypertension",
+      "text": "Normal-tension glaucoma describes glaucomatous damage with IOP that is always within the normal range. Vascular factors such as low blood pressure at night, migraine and Raynaud's phenomenon may play a role."
+    },
+    {
+      "id": "p9-c5",
+      "page": 9,
+      "section": "IOP-lowering medicines",
+      "text": "Class Examples How it lowers IOP Key cautions"
+    },
+    {
+      "id": "p9-c6",
+      "page": 9,
+      "section": "IOP-lowering medicines",
+      "text": "Prostaglandin Latanoprost, Increase uveoscleral Lash growth, darker iris and periocular analogues bimatoprost, outflow skin, orbital fat loss, red eye; use with travoprost, care in active uveitis, cystoid macular tafluprost oedema and herpes simplex keratitis"
+    },
+    {
+      "id": "p9-c7",
+      "page": 9,
+      "section": "IOP-lowering medicines",
+      "text": "Beta-blockers Timolol, betaxolol Reduce aqueous Asthma and COPD, heart block, production bradycardia (betaxolol is cardioselective but still needs caution) Alpha-2 Brimonidine, Reduce production; agonists apraclonidine brimonidine also Allergy (high with apraclonidine, so it is increases uveoscleral used short term), tiredness, dry mouth; Topical Dorzolamide, outflow brimonidine is contraindicated in children carbonic brinzolamide under 2 and with MAO inhibitors anhydrase Reduce aqueous inhibitors production Stinging, bitter taste; sulfonamide allergy; care with a compromised corneal Systemic Acetazolamide Reduce aqueous endothelium carbonic production anhydrase Tingling, tiredness, low potassium, inhibitors metabolic acidosis, kidney stones, rarely blood dyscrasias or Stevens–Johnson syndrome; sulfonamide allergy, kidney disease, sickle cell disease"
+    },
+    {
+      "id": "p10-c1",
+      "page": 10,
+      "section": "IOP-lowering medicines",
+      "text": "Class Examples How it lowers IOP Key cautions Miotics Pilocarpine Brow ache, dim vision, myopic shift; rare Contract the ciliary retinal detachment; avoid in uveitis and Rho kinase Netarsudil muscle, pulling the aqueous misdirection inhibitors scleral spur to open the meshwork; constrict the Red eye, small conjunctival Hyperosmotic Mannitol (IV), pupil haemorrhages, corneal deposits agents glycerol (oral), (verticillata) isosorbide (oral) Increase trabecular outflow and lower Heart failure, kidney disease, fluid episcleral venous overload; glycerol in diabetes pressure"
+    },
+    {
+      "id": "p10-c2",
+      "page": 10,
+      "section": "IOP-lowering medicines",
+      "text": "Draw water out of the vitreous"
+    },
+    {
+      "id": "p10-c3",
+      "page": 10,
+      "section": "Laser and surgery in glaucoma",
+      "text": "Selective laser trabeculoplasty (SLT) treats the trabecular meshwork to increase outflow in open- angle glaucoma and ocular hypertension. It can be repeated. Laser peripheral iridotomy relieves pupil block in angle closure (see the iridotomy section). Laser iridoplasty contracts the peripheral iris to pull it away from the angle, mainly for plateau iris or an attack that does not respond to medicine."
+    },
+    {
+      "id": "p10-c4",
+      "page": 10,
+      "section": "Laser and surgery in glaucoma",
+      "text": "Cyclodiode laser reduces aqueous production by treating the ciliary body. Conventional continuous-wave treatment is used for eyes with a poor visual outlook or after other treatments have failed; micropulse treatment is sometimes used earlier. Trabeculectomy creates a guarded channel from the anterior chamber to a bleb under the conjunctiva. Antifibrotic agents such as mitomycin C or 5-fluorouracil are used to reduce scarring."
+    },
+    {
+      "id": "p10-c5",
+      "page": 10,
+      "section": "Laser and surgery in glaucoma",
+      "text": "In angle closure eyes the risk of aqueous misdirection is higher. Tube shunts (such as Baerveldt, Ahmed or PAUL) drain aqueous to a plate placed further back on the eye, often after failed trabeculectomy or in neovascular and uveitic glaucoma. Minimally invasive glaucoma surgery (MIGS) uses small devices, often placed at the same time as cataract surgery, for mild to moderate glaucoma."
+    },
+    {
+      "id": "p10-c6",
+      "page": 10,
+      "section": "Laser and surgery in glaucoma",
+      "text": "Lens extraction deepens the anterior chamber and is an effective treatment for many people with angle closure (see EAGLE above)."
+    },
+    {
+      "id": "p10-c7",
+      "page": 10,
+      "section": "Sources",
+      "text": "Salmon JF. Kanski's Clinical Ophthalmology, 10th ed. Elsevier, 2024 (chapter 11, Glaucoma). · Oxford Handbook of Ophthalmology (chapter 10, Glaucoma). · EyeWiki: Primary vs. Secondary Angle Closure Glaucoma; Laser Peripheral Iridotomy; Iridoplasty (accessed November 2026). · American Academy of Ophthalmology. Primary Angle-Closure Disease Preferred Practice Pattern. · NICE NG81, Glaucoma: diagnosis and management (updated 2022). · Azuara-Blanco A et al. EAGLE trial, Lancet 2016. · He M et al."
+    },
+    {
+      "id": "p10-c8",
+      "page": 10,
+      "section": "Sources",
+      "text": "ZAP trial, Lancet 2019."
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "case_id": "EA-VIVA-001",
+  "title": "Painful red right eye after a night at the cinema",
+  "fictional": true,
+  "disclaimer": "Fictional case written for the Eye Academy developer take-home. Not a real patient.",
+  "opening_prompt": "A 64-year-old woman attends eye casualty at 23:40 with a painful red right eye. Ask me for any examination findings you need, then tell me your diagnosis and immediate management.",
+  "patient": {
+    "age": 64,
+    "sex": "female",
+    "presenting_complaint": "Sudden severe pain in the right eye with blurred vision, haloes around lights, frontal headache, nausea and one episode of vomiting. Started about 3 hours ago while watching a film in a dark cinema.",
+    "past_ocular_history": "Long-sighted, wears reading and distance glasses. No previous eye surgery or laser.",
+    "past_medical_history": "Hypertension.",
+    "medications": [
+      "Amlodipine 5 mg once daily",
+      "Chlorphenamine 4 mg (over the counter), started 2 days ago for hay fever"
+    ],
+    "allergies": "Sulfonamide antibiotics (rash)",
+    "family_history": "Mother had glaucoma."
+  },
+  "findings": [
+    {
+      "id": "va_right",
+      "eye": "right",
+      "label": "Visual acuity",
+      "value": "6/36",
+      "unit": "Snellen",
+      "method": "Unaided, distance",
+      "available": true
+    },
+    {
+      "id": "va_left",
+      "eye": "left",
+      "label": "Visual acuity",
+      "value": "6/9",
+      "unit": "Snellen",
+      "method": "Unaided, distance",
+      "available": true
+    },
+    {
+      "id": "iop_right",
+      "eye": "right",
+      "label": "Intraocular pressure",
+      "value": 58,
+      "unit": "mmHg",
+      "method": "Goldmann applanation, 23:55",
+      "available": true
+    },
+    {
+      "id": "iop_left",
+      "eye": "left",
+      "label": "Intraocular pressure",
+      "value": 18,
+      "unit": "mmHg",
+      "method": "Goldmann applanation, 23:55",
+      "available": true
+    },
+    {
+      "id": "conj_right",
+      "eye": "right",
+      "label": "Conjunctiva",
+      "value": "Diffuse injection, most marked around the limbus (ciliary flush)",
+      "unit": null,
+      "method": "Slit lamp",
+      "available": true
+    },
+    {
+      "id": "conj_left",
+      "eye": "left",
+      "label": "Conjunctiva",
+      "value": "White and quiet",
+      "unit": null,
+      "method": "Slit lamp",
+      "available": true
+    },
+    {
+      "id": "cornea_right",
+      "eye": "right",
+      "label": "Cornea",
+      "value": "Hazy with microcystic epithelial oedema",
+      "unit": null,
+      "method": "Slit lamp",
+      "available": true
+    },
+    {
+      "id": "cornea_left",
+      "eye": "left",
+      "label": "Cornea",
+      "value": "Clear",
+      "unit": null,
+      "method": "Slit lamp",
+      "available": true
+    },
+    {
+      "id": "ac_right",
+      "eye": "right",
+      "label": "Anterior chamber depth",
+      "value": "Shallow, Van Herick grade 1 (peripheral depth under 1/4 of corneal thickness)",
+      "unit": null,
+      "method": "Slit lamp",
+      "available": true
+    },
+    {
+      "id": "ac_left",
+      "eye": "left",
+      "label": "Anterior chamber depth",
+      "value": "Shallow, Van Herick grade 1",
+      "unit": null,
+      "method": "Slit lamp",
+      "available": true
+    },
+    {
+      "id": "pupil_right",
+      "eye": "right",
+      "label": "Pupil",
+      "value": "Mid-dilated, 5 mm, unreactive to light",
+      "unit": "mm",
+      "method": "Pen torch",
+      "available": true
+    },
+    {
+      "id": "pupil_left",
+      "eye": "left",
+      "label": "Pupil",
+      "value": "3 mm, briskly reactive to light",
+      "unit": "mm",
+      "method": "Pen torch",
+      "available": true
+    },
+    {
+      "id": "rapd",
+      "eye": "both",
+      "label": "Relative afferent pupillary defect",
+      "value": "Not assessable: right pupil unreactive",
+      "unit": null,
+      "method": "Swinging light test",
+      "available": false,
+      "unavailable_reason": "Right pupil fixed, so the test cannot be interpreted"
+    },
+    {
+      "id": "lens_right",
+      "eye": "right",
+      "label": "Lens",
+      "value": "Early nuclear sclerosis",
+      "unit": null,
+      "method": "Slit lamp",
+      "available": true
+    },
+    {
+      "id": "lens_left",
+      "eye": "left",
+      "label": "Lens",
+      "value": "Early nuclear sclerosis",
+      "unit": null,
+      "method": "Slit lamp",
+      "available": true
+    },
+    {
+      "id": "gonio_right",
+      "eye": "right",
+      "label": "Gonioscopy",
+      "value": null,
+      "unit": null,
+      "method": "Goldmann 3-mirror",
+      "available": false,
+      "unavailable_reason": "No view: corneal oedema"
+    },
+    {
+      "id": "gonio_left",
+      "eye": "left",
+      "label": "Gonioscopy",
+      "value": "Iridotrabecular contact in 3 of 4 quadrants, no peripheral anterior synechiae on indentation",
+      "unit": null,
+      "method": "Zeiss 4-mirror, dim light",
+      "available": true
+    },
+    {
+      "id": "fundus_right",
+      "eye": "right",
+      "label": "Optic disc and fundus",
+      "value": null,
+      "unit": null,
+      "method": "Slit lamp biomicroscopy",
+      "available": false,
+      "unavailable_reason": "Poor view through oedematous cornea"
+    },
+    {
+      "id": "fundus_left",
+      "eye": "left",
+      "label": "Optic disc and fundus",
+      "value": "Healthy disc, cup-to-disc ratio 0.3, normal macula",
+      "unit": null,
+      "method": "Slit lamp biomicroscopy",
+      "available": true
+    },
+    {
+      "id": "refraction",
+      "eye": "both",
+      "label": "Refraction",
+      "value": "Right +3.50 DS, left +3.25 DS (from her current glasses)",
+      "unit": "dioptres",
+      "method": "Focimetry of current glasses",
+      "available": true
+    },
+    {
+      "id": "axial_length",
+      "eye": "both",
+      "label": "Axial length (biometry)",
+      "value": null,
+      "unit": "mm",
+      "method": null,
+      "available": false,
+      "unavailable_reason": "Not performed in casualty"
+    },
+    {
+      "id": "oct",
+      "eye": "both",
+      "label": "OCT",
+      "value": null,
+      "unit": null,
+      "method": null,
+      "available": false,
+      "unavailable_reason": "Not performed in casualty"
+    },
+    {
+      "id": "bp",
+      "eye": null,
+      "label": "Blood pressure",
+      "value": "168/94",
+      "unit": "mmHg",
+      "method": "Automated cuff",
+      "available": true
+    },
+    {
+      "id": "u_and_e",
+      "eye": null,
+      "label": "Urea and electrolytes",
+      "value": null,
+      "unit": null,
+      "method": null,
+      "available": false,
+      "unavailable_reason": "Bloods sent, results pending"
+    }
+  ],
+  "examiner_notes": {
+    "diagnosis": "Right acute primary angle closure, with a narrow left angle at risk. Likely triggered by dim light and a new anticholinergic antihistamine.",
+    "key_points": [
+      "Lower the pressure: topical agents (e.g. beta-blocker, alpha-agonist, pilocarpine once the pressure starts to fall), plus systemic treatment as appropriate",
+      "Note the sulfonamide allergy before giving acetazolamide",
+      "Stop the chlorphenamine",
+      "Analgesia and antiemetic",
+      "Laser peripheral iridotomy to both eyes once the cornea clears, including the fellow eye",
+      "Review gonioscopy of the right eye and the optic discs after the attack settles"
+    ],
+    "follow_up_ideas": [
+      "Why treat the left eye as well?",
+      "Why might pilocarpine not work at first when the pressure is very high?",
+      "What would you do if the pressure doesn't come down?"
+    ]
+  },
+  "reference_source": {
+    "title": "Glaucoma and angle closure: Eye Academy reference note",
+    "file": "Eye Academy - Glaucoma_and_Angle_Closure_Reference_Note.pdf",
+    "note": "Cite by page number. The acute primary angle closure section is the main source; the other sections act as distractors."
+  }
+}
